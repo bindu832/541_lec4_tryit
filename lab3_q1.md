@@ -16,7 +16,7 @@ Directive| Use| Example
 *| Italic| *Italic*|
 **| Bold| **Bold**|
 ~~| Strikethrough| ~~Strikethrough~~
-***| Horizontal Rule| ***Horizontal Rule***
+***| Horizontal Rule| N/A
 
 [Sometimes, you'll want to escape a Markdown symbol.](https://help.github.com/articles/basic-0writing-and-formatting-syntax/#ignoring-markdown-formatting)
 
